@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "1.31",
-  "downloadUrl": "https://github.com/yoplait73-hub/HomeStream-Updates/releases/download/v1.1/HomeStream_v1.31.apk",
-  "releaseNotes": "Correction Source Error (Buffering), intégration des réglages dans le menu latéral, cartes d'ajout de source dans toutes les catégories."
+  "versionCode": 34,
+  "versionName": "1.33",
+  "downloadUrl": "https://github.com/yoplait73-hub/HomeStream-Updates/releases/download/v1.1/HomeStream_v1.33.apk",
+  "releaseNotes":"Correction de l'affichage de la version dans 'À propos' (dynamique), passage en v1.33."
 }

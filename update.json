@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "1.34",
-  "downloadUrl": "https://github.com/yoplait73-hub/HomeStream-Updates/releases/download/v1.1/HomeStream_v1.34.apk",
-  "releaseNotes":"Fix encodage caractères, masquage texte Paramètres, optimisation buffers SMB et cache lecture pour AVI/MKV."
+  "versionCode": 36,
+  "versionName": "1.35",
+  "downloadUrl": "https://github.com/yoplait73-hub/HomeStream-Updates/releases/download/v1.1/HomeStream_v1.35.apk",
+  "releaseNotes":"Correction diver"
 }
